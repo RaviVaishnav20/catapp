@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: appdev
+Implementation-Version: 0.0.1
+Built-By: Ravi
+Implementation-Vendor-Id: com.google.training
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/appdev/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
